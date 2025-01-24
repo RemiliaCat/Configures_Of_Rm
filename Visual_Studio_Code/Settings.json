@@ -1,0 +1,67 @@
+{
+  "workbench.colorTheme": "GitHub Dark Dimmed",
+  "workbench.iconTheme": "material-icon-theme",
+  "editor.cursorSmoothCaretAnimation": "on",
+  "editor.fontFamily": "CaskaydiaCove NF,思源黑体 CN, monospace",
+  "editor.fontLigatures": true,
+  "editor.cursorBlinking": "smooth",
+  "python.autoComplete.extraPaths": [
+    "C:/Users/Remil/AppData/Local/Programs/Python/Python311/Lib/site-packages/OlivOS"
+  ],
+  "python.analysis.extraPaths": [
+    "C:/Users/Remil/AppData/Local/Programs/Python/Python311/Lib/site-packages/OlivOS"
+  ],
+  "[python]": {
+    "editor.defaultFormatter": "ms-python.autopep8"
+  },
+  "explorer.confirmDelete": false,
+  "explorer.confirmPasteNative": false,
+  "explorer.confirmDragAndDrop": false,
+  "editor.formatOnPaste": true,
+  "editor.formatOnType": true,
+  "editor.formatOnSave": true,
+  "C_Cpp.formatting": "clangFormat",
+  "kotlin.languageServer.enabled": false,
+  "kotlin.debugAdapter.enabled": false,
+  "C_Cpp.dimInactiveRegions": false,
+  "C_Cpp.default.cppStandard": "c++17",
+  "security.allowedUNCHosts": ["wsl.localhost"],
+  "[json]": {
+    "editor.defaultFormatter": "vscode.json-language-features"
+  },
+  "background.fullscreen": {
+    "images": [
+      "file:///C:/Users/Remil/Pictures/ark_midautumn.png",
+      "https://user-images.githubusercontent.com/9987486/40583669-d6189844-61c5-11e8-89e3-c52ad153da09.png"
+    ],
+    "opacity": 0.1,
+    "size": "cover",
+    "position": "center",
+    "interval": 0,
+    "random": false
+  },
+  "background.enabled": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "C_Cpp.clang_format_style": "Visual Studio",
+  "[cpp]": {
+    "editor.defaultFormatter": "xaver.clang-format"
+  },
+  "prettier.requireConfig": true,
+  "prettier.requirePragma": true,
+  "prettier.tabWidth": 4,
+  "prettier.useEditorConfig": false,
+  "prettier.vueIndentScriptAndStyle": true,
+  "C_Cpp.clang_format_path": "E:\\Program Files\\LLVM\\bin\\clang-format.exe",
+  "clang-format.fallbackStyle": "Google",
+  "clang-format.assumeFilename": "-style=file",
+  "clang-format.executable": "E:\\Program Files\\LLVM\\bin\\clang-format.exe",
+  "editor.cursorStyle": "block",
+  "vscode_custom_css.imports": [
+    "file:///c:/Users/Remil/.vscode/extensions/brandonkirbyson.vscode-animations-2.0.7/dist/updateHandler.js"
+  ],
+  "animations.CursorAnimation": true,
+  "animations.CursorAnimationOptions": {
+    "TrailLength": 8,
+    "Color": "#1E90FF\t"
+  }
+}
